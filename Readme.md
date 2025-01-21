@@ -70,20 +70,20 @@ Here Are My Few Technical Skills, Libraries I know, Tools I use, and My Socials.
 <table>
   <tr>
     <td align="center" width="150">
-  <a href="https://www.linkedin.com/in/satyam-nirmal-1658312a3">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <br>LinkedIn
 </td>
 <td align="center" width="150">
-      <a href="https://www.instagram.com/satyam_nirmal_patil?igsh=ZzdneWcxNzR1a3Nn">
+      <a href="#">
       <img src="https://skillicons.dev/icons?i=instagram" />
       </a>
       <br>Instagram
 </td>
 
    <td align="center" width="150">
-      <a href="mailto:satyamnirmal13@gmail.com">
+      <a href="mailto:karandekrushna2005@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail" />
       </a>
       <br>Email
