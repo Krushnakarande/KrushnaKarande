@@ -1,4 +1,4 @@
-![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/giphy-7.gif)
+![MasterHead](icon/lofi-gif-6.gif)
 <h1>👋 Hello, This is KK!</h1>
 
 **Software Engineer | Open Source Enthusiast | Problem Solver**
@@ -70,13 +70,13 @@ Here Are My Few Technical Skills, Libraries I know, Tools I use, and My Socials.
 <table>
   <tr>
     <td align="center" width="150">
-  <a href="#">
+  <a href="https://www.linkedin.com/in/krushna-karande-6170722a1/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <br>LinkedIn
 </td>
 <td align="center" width="150">
-      <a href="#">
+      <a href="https://www.instagram.com/kru_shna7877/">
       <img src="https://skillicons.dev/icons?i=instagram" />
       </a>
       <br>Instagram
