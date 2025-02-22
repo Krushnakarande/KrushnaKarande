@@ -23,7 +23,7 @@ Here Are My Few Technical Skills, Libraries I know, Tools I use, and My Socials.
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://private-user-images.githubusercontent.com/92843163/256987776-d72a8f2f-96f8-4c7f-aacf-8dfbc34a8f6c.svg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc0NTUwNjcsIm5iZiI6MTczNzQ1NDc2NywicGF0aCI6Ii85Mjg0MzE2My8yNTY5ODc3NzYtZDcyYThmMmYtOTZmOC00YzdmLWFhY2YtOGRmYmMzNGE4ZjZjLnN2Zz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTIxVDEwMTkyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdjMGMyODY2ZmJlYzEwZmRlYTlhNzcwNjNjYzdlZGQ2ZDA2MTZjZDdhMjE5MmZiMjAxMDAyZDY5N2IyNTI0OTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.3-TKvpMbaalx2anxzjWLlMbxoat6BtjX_002cyhIVBA" height="48" width="48" />
+        <img src="icon/icons8-python.gif" height="48" width="48" />
         <br>Python
       </td>
       <td align="center" width="120">
