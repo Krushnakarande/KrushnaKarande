@@ -54,7 +54,7 @@ Here Are My Few Technical Skills, Libraries I know, Tools I use, and My Socials.
       </td>
       <td align="center" width="120">
         <a href="#">
-        <img src="https://github.com/onemarc/tech-icons/blob/main/icons/kotlin-dark.svg" width="50">
+        <img src="icon/icons8-kotlin-48.png" width="50">
         </a>
         <br>Kotlin
       </td>
